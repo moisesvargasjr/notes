@@ -20,6 +20,7 @@ psycopg2-binary = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 python-dotenv = "*"
+mistune = "*"
 
 [requires]
 python_version = "3.7"
